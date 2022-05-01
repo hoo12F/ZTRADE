@@ -1,0 +1,9 @@
+{
+    "short-name": "ZTRADE",
+    "name": "ZTRADE Trading Platform",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background-color": "#000000",
+    "theme-color": "#000000"
+}
